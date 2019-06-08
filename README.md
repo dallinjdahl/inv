@@ -6,6 +6,7 @@ Command line stock portfolio manager
 ## Portfolio format
 The portfolio is stored in the home directory under the name `.(portfolio-name).port`.  It's a simple headerless CSV,
 with the first field containing the stock ticker, and the second containing the number of stocks.  For example:
+
     FB, 4
     INTC, 2
     GOOG, 1
