@@ -1,5 +1,5 @@
 # inv
-command line stock portfolio manager
+Command line stock portfolio manager
 
 ## Usage
     inv {-p portfolio-name | stock-ticker...}
